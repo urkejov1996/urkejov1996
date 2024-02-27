@@ -11,3 +11,6 @@ I'm an full-stack developer building my version of the digital world one step at
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urkejov1996)](https://github.com/anuraghazra/github-readme-stats)
