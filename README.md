@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Uros
 
-<!--
-**urkejov1996/urkejov1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
