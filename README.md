@@ -27,3 +27,7 @@ Java / Spring / Hibernate / JPA / Docker / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=urkejov1996)  
 
+### 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=urkejov1996&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urkejov1996&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
