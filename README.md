@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Uros
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
