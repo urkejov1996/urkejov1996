@@ -7,7 +7,7 @@ I'm an backend developer building my version of the digital world one step at a 
 - 📫 How to reach me: urkejov1996@gmail.com 
 - ⚡ Fun fact: I Learn the most by helping others, try it yourself. 
 
-## Skills and Experience: 
+🎯## Skills and Experience: 
 Java / Spring / Hibernate / JPA / Docker / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/urkejov1996)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/urosjovanovic1996//)  
