@@ -1,5 +1,10 @@
 # Hi there 👋, my name is Uros
-#### Development
+
+<p> 
+    <a href="https://linktr.ee/urkejov1996" target="_blank"><img alt="Linktree"
+        src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+</p>
+
 I'm an backend developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 - 🔭 I’m currently working on improving myself everyday. 
