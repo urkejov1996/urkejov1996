@@ -1,5 +1,7 @@
 # Hi there 👋, my name is Uros
 
+**`Digital Craftsman (Developer/Creator)`**
+
 <p> 
     <a href="https://linktr.ee/urkejov1996" target="_blank"><img alt="Linktree"
         src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&logo=linktree&logoColor=white"/></a>
