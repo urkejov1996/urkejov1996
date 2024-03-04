@@ -4,7 +4,7 @@
 
 I'm an backend developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-- 🔭 I’m currently working on improving myself everyday. 
+- 🔭 I’m currently working on my new website. 
 - 🌱 I’m currently learning Docker and Kubernetes. 
 - 📫 How to reach me: urkejov1996@gmail.com 
 - ⚡ Fun fact: I Learn the most by helping others, try it yourself.
