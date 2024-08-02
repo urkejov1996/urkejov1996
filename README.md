@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Uros
+## Hi there 👋, my name is Uros
 
 **`Digital Craftsman (Developer/Creator)`**
 
