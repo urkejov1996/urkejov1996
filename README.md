@@ -42,5 +42,5 @@ I'm an backend developer building my version of the digital world one step at a 
 ### 📊 GitHub Stats:
 <!--![Uros's GitHub stats](https://github-readme-stats.vercel.app/api?username=urkejov1996&show_icons=true&theme=dark&hide)-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=urkejov1996&theme=dark&hide_border=false)<br/>-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=urkejov1996&theme=dark&hide)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=urkejov1996&theme=dark&hide)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urkejov1996&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
